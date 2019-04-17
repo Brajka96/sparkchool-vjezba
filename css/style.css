@@ -1,5 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 div {
     width: 400px;
     height: 400px;
     background: grey;
+    margin: 100px auto;
+}
+
+h1 {
+    background: crimson;
+    text-align: center;
+    margin: 20px 0;
 }
